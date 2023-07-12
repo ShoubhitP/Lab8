@@ -1,0 +1,5 @@
+#secrets
+
+#define BLYNK_TEMPLATE_ID "TMPL2EKRGok8d"
+#define BLYNK_TEMPLATE_NAME "Quickstart Template"
+#define BLYNK_AUTH_TOKEN "I6qMbq7oS9Qbn2gEUzw4G7kuT7kHQT-v"
